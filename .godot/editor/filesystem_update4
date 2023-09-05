@@ -1,0 +1,6 @@
+res://scenes/game.tscn
+res://scenes/top_ui.tscn
+res://gameOver.tscn
+res://scenes/goal.tscn
+res://scenes/win_layer.tscn
+res://scenes/music.tscn

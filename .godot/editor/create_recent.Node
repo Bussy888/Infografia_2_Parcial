@@ -1,0 +1,10 @@
+AudioStreamPlayer
+Label
+HBoxContainer
+AnimationPlayer
+TextureButton
+TextureRect
+MarginContainer
+CanvasLayer
+Node
+Timer
